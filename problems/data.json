@@ -1,0 +1,46 @@
+{
+  "vegetables": [
+    {
+      "name": "Carrot",
+      "scientific_name": "Daucus carota",
+      "description": "A root vegetable that is high in beta-carotene and other vitamins.",
+      "image_url": "https://example.com/images/carrot.jpg",
+      "nutritional_information": {
+        "calories": 41,
+        "protein": 0.93,
+        "fat": 0.24,
+        "carbohydrates": 9.58,
+        "fiber": 2.8,
+        "sugar": 4.74
+      }
+    },
+    {
+      "name": "Tomato",
+      "scientific_name": "Solanum lycopersicum",
+      "description": "A fruit that is commonly used as a vegetable, rich in vitamin C and antioxidants.",
+      "image_url": "https://example.com/images/tomato.jpg",
+      "nutritional_information": {
+        "calories": 18,
+        "protein": 0.88,
+        "fat": 0.2,
+        "carbohydrates": 3.9,
+        "fiber": 1.2,
+        "sugar": 2.6
+      }
+    },
+    {
+      "name": "Broccoli",
+      "scientific_name": "Brassica oleracea",
+      "description": "A cruciferous vegetable that is high in fiber, vitamins, and minerals.",
+      "image_url": "https://example.com/images/broccoli.jpg",
+      "nutritional_information": {
+        "calories": 34,
+        "protein": 2.82,
+        "fat": 0.37,
+        "carbohydrates": 6.64,
+        "fiber": 2.6,
+        "sugar": 1.7
+      }
+    }
+  ]
+}

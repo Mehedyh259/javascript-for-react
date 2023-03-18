@@ -1,0 +1,21 @@
+1. basic of javascript
+
+	-how to declare a variable -done
+	- conditions in javascript - done
+	-array declare - done
+	- loop declare - done
+	- function declare and return type - done
+	- object declare. 3 ways to access object- done
+	
+2. template string, arrow function, spread operator
+
+3. array destructuring, object destructuring
+
+4. JSON stringify and parse, fetch
+
+5. shortcut, truthy and falsy value.. 
+6. ternary operator
+7. convert number to string, string to number
+8. logical and, logical or, 
+
+
